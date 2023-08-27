@@ -22,7 +22,7 @@ I have lead projects and teams aimed at building top-down interface's and analyt
 -  :dolphin: MySQL
 
 ### Relevant Links:
-- Link to my Linkedin [here](www.linkedin.com/in/armaansayyad)
+- Link to my Linkedin [here](https://www.linkedin.com/in/armaansayyad/)
 - Brief Resume [here](https://docs.google.com/document/d/1ejW93DMSgED_en4-5ptAtUvYWoN6yImc8x5Oa4O7xfA/edit?usp=sharing)
 - Full Journey [here](https://docs.google.com/document/d/114-1U0SS7SurjCksj7TrAK0tq90I99k64OEpGpQVZts/edit?usp=sharing)
 
