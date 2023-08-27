@@ -1,38 +1,30 @@
-## Welcome to GitHub Pages
-# Welcome to Armaans CS 193 Homework 1
+# ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Welcome to Armaan's CS 193 Homework 1
 
-You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+#### Some of my Favorite things about CS 193:
+- Workload: Whilst being a useful and informative class, it maintains a mangable workload to an extent that it is enjoyable and yet no tedious!
+- Location: University Church 114 is one of, if not the best lecture hall I attend any of my classes in. Although not ergonomically conveniant from a visual standpoint, it is a beautiful room.
+- Faculty: Being a student run class ensures that the information provided is relevant, recently expereienced based and in a format that will make it enjoyable to do!
+  
+Data Scientist Specialized in Financial Analysis
+------------------------------------------------
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have lead projects and teams aimed at building top-down interface's and analytics platforms focusing on providing actionable forecasted insights using effective visualizations.
 
-### Markdown
+*  :earth_americas: I'm based in Purdue University, West Lafayette, IN
+* ✉:mailbox_with_mail: You can contact me at [armaans999@gmail.com](mailto:armaans999@gmail.com)
+* :thought_balloon: I'm learning R
+* :open_hands: I'm open to collaborating on Data Analytics Projects'
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Skills
 
-```markdown
-Syntax highlighted code block
+- :coffee: Java
+-  :dolphin: MySQL
 
-# Armaan's CS 193 Homework 1
-## Header 2
-### Header 3
+### Relevant Links:
+- Link to my Linkedin [here](www.linkedin.com/in/armaansayyad)
+- Brief Resume [here](https://docs.google.com/document/d/1ejW93DMSgED_en4-5ptAtUvYWoN6yImc8x5Oa4O7xfA/edit?usp=sharing)
+- Full Journey [here](https://docs.google.com/document/d/114-1U0SS7SurjCksj7TrAK0tq90I99k64OEpGpQVZts/edit?usp=sharing)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kalutes/CS193_Fall18_Lab1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
