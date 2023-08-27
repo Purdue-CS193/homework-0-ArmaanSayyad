@@ -1,5 +1,5 @@
 # ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-# Welcome to Armaan's CS 193 Homework 1
+# Welcome to Armaan's First CS 193 Homework!
 
 #### Some of my Favorite things about CS 193:
 - Workload: Whilst being a useful and informative class, it maintains a mangable workload to an extent that it is enjoyable and yet no tedious!
@@ -11,7 +11,7 @@ Data Scientist Specialized in Financial Analysis
 
 I have lead projects and teams aimed at building top-down interface's and analytics platforms focusing on providing actionable forecasted insights using effective visualizations.
 
-*  :earth_americas: I'm based in Purdue University, West Lafayette, IN
+* (:earth_americas:) I'm based in Purdue University, West Lafayette, IN
 * :mailbox_with_mail: You can contact me at [armaans999@gmail.com](mailto:armaans999@gmail.com)
 * :thought_balloon: I'm learning R
 * :open_hands: I'm open to collaborating on Data Analytics Projects'
