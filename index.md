@@ -12,7 +12,7 @@ Data Scientist Specialized in Financial Analysis
 I have lead projects and teams aimed at building top-down interface's and analytics platforms focusing on providing actionable forecasted insights using effective visualizations.
 
 *  :earth_americas: I'm based in Purdue University, West Lafayette, IN
-* ✉:mailbox_with_mail: You can contact me at [armaans999@gmail.com](mailto:armaans999@gmail.com)
+* :mailbox_with_mail: You can contact me at [armaans999@gmail.com](mailto:armaans999@gmail.com)
 * :thought_balloon: I'm learning R
 * :open_hands: I'm open to collaborating on Data Analytics Projects'
 
